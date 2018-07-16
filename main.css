@@ -112,7 +112,7 @@ footer {
 /*** Transforms and Transitions **/
 
 .valley img {
-	transition: transform 1s ease-out .2s;	
+	transition: transform 1s ease-out;	
 	}
 
 .valley img:hover {
@@ -120,7 +120,7 @@ footer {
 	}
 	
 .valley img {
-	transition: transform 1s ease-out .2s;	
+	transition: transform 1s ease-out;	
 	}
 
 	
