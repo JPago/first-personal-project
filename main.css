@@ -40,7 +40,6 @@ ul {
 	color: #23395b;
 	font-size: 1.75rem;
 	margin-right: 20px;
-	transition: transform 1s ease-in-out;
 	}
 
 .nav-item:hover {
