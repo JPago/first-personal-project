@@ -94,20 +94,9 @@ img {
 /*** Footer**/
 
 footer {
-	display: inline-flex;
-	flex-direction: row;
-	border-top: 1px solid #e0d68a;
-	width: 100%;
-	height: 20vh;
+	
 }
 
-.gmail-icon,
-.github-icon,
-.linkedin-icon {
-	width: 56px;	
-}  
-
- 
 /*** Transforms and Transitions **/
 
 .valley img {
