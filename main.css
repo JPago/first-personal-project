@@ -150,6 +150,7 @@ img {
 	}
 
 .front {
+	-webkit-z-index: 2;
 	z-index: 2;
 	}
 
