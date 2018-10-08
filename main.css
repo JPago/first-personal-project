@@ -152,7 +152,6 @@ img {
 	
 	
 /** Media Query Medium **/
-
 @media screen and (min-width: 750px) {
 
 .valley-photos {
@@ -189,7 +188,6 @@ img:nth-of-type(3) {
 	
 	
 /** Media Query Large **/	
-
 @media screen and (min-width: 1385px) {
 	ul {
 	display: flex;
