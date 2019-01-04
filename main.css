@@ -103,8 +103,16 @@ footer {
     display: flex;
     flex-direction: column;
     padding-top: 2vh;
-    height: 12vh;
+    height: 16vh;
     text-align: center;
+}
+
+.social {
+    flex-direction: row;
+}
+
+.social a {
+    width: 30px;
 }
 
 .footer-nav a{
